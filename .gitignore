@@ -1,0 +1,10 @@
+axios-source-debug/*.iml
+axios-source-debug/.idea
+axios-source-debug/.tscache
+axios-source-debug/.DS_Store
+axios-source-debug/node_modules/
+axios-source-debug/typings/
+axios-source-debug/coverage/
+axios-source-debug/test/typescript/axios.js*
+axios-source-debug/sauce_connect.log
+axios-source-debug/package-lock.json
